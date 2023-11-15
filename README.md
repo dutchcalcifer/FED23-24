@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  Steam
+  www.tesla.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Steam Store Page
-  <img src="./readme-images/Store Page.jpg" width="375px" alt="Store page van steam">
+  Tesla Home Page
+  <img src="./readme-images/Home Page.jpg" width="375px" alt="Home page fro Tesla">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Steam FFXIV Product Page
-  <img src="./readme-images/Product Page.jpg" width="375px" alt="Product page voor ffxiv op steam">
+  Tesla Model S Product Page
+  <img src="./readme-images/Product Page.jpg" width="375px" alt="Product page for Tesla Model S">
  
 </details>
 
@@ -56,7 +56,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  De screen reader leest de website goed voor.
+  Alleen de animaties lopen een beetje vast op het moment dat de screenreader naar beneden wilt scrollen.
+  Sommige stukken stekst staan genest in andere kopjes waardoor de screen reader soms de zelfde stuk tekst twee keer leest
 
 </details>
 
