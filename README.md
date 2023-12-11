@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Zwart
 
   #### Je focus:
-  Responsive
+  Surface plane
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  www.tesla.com/
+  Tesla
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Tesla Home Page
-  <img src="./readme-images/Home Page.jpg" width="375px" alt="Home page fro Tesla">
+  Tesla Model S Product Page
+  <img src="./readme-images/productPage.jpg" width="375px" alt="Tesla Model S Product Page">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Tesla Model S Product Page
-  <img src="./readme-images/Product Page.jpg" width="375px" alt="Product page for Tesla Model S">
+  Tesla Model S Order Page
+  <img src="./readme-images/orderPage.jpg" width="375px" alt="Tesla Model S Order Page">
  
 </details>
 
@@ -58,8 +58,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   De screen reader leest de website goed voor.
   Alleen de animaties lopen een beetje vast op het moment dat de screenreader naar beneden wilt scrollen.
-  Sommige stukken stekst staan genest in andere kopjes waardoor de screen reader soms de zelfde stuk tekst twee keer leest
-
+  Sommige stukken stekst staan genest in andere kopjes waardoor de screen reader soms de zelfde stuk tekst twee keer leest.
 </details>
 
 
