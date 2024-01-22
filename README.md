@@ -1,15 +1,3 @@
-# Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
-
-
-
-
 ## Jij
 
 <details open>
@@ -68,14 +56,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  ### Model S Product Page:
+  <img src="./readme-images/breakdown1.png" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### Order Model S:
+  <img src="./readme-images/breakdown2.png" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 
@@ -89,26 +74,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Tijdens de lessen heb ik feedback gekregen op mijn html code. Ik gebruikte veel divs, had geen nav,ul en li, en had geen alt's bij mijn img tags. Dit had ik echter nog niet geimplementeerd. Ik wilde mij eerst focusen op de structuur en wilde daarna focusen op de details in de elementen.
 
 </details>
 
@@ -122,26 +88,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  Ik heb besloten in deze week mijn aanpak aan te passen. Ik had eerst besloten om mijn website responsive te maken. Echter heb ik niet goed gelet op mijn programmeren en na de ontdekking dat de verschillen tussen de mobile en desktop website van Tesla te groot zijn heb ik besloten om te gaan voor de surface plane.
+  De Tesla website zit vol met kleine micro interacties, animaties, en andere kleine javascript ellementen, dus de surface plane moet een goede toevoeging zijn voor mijn werk.
 
 </details>
 
@@ -155,7 +103,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Tijdens de toegankelijkheids test heb ik de screenreader gebruikt om mijn website te testen. De test was succesvol. Alle elementen worden duidelijk voorgelezen en de screenreader skipt geen elementen en leest geen element dubbel voor. Foto's en knoppen worden duidelijk toegelicht.
 
 </details>
 
@@ -169,26 +117,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Deze week heb ik weinig kunnen werken aan mijn website door prive omstandigheden.
 
 </details>
 
@@ -201,20 +130,35 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken voor eindgesprek</summary>
 
-  ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
-
-
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  De html als css was mij goed gellukt, de opbouw en streuctuur ziet er netjes uit. Alleen door tijd tekort heb ik jammergenoeg niet kunnen werken aan de surface plane en de tweede pagina.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="./readme-images/screen1.png" width="375px" alt="screen 1">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Het moeilijkste was om de css goed op orde te krijgen. Veel elementen werden hergebruikt op de website maar met kleine aanpassingen. Hierdoor moest ik voor elk component naast de hergebruikte code ook nog extra code schrijven.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+</details>
+
+
+
+
+
+## Herkansing
+
+<details>
+  <summary>uitwerken voor eindgesprek</summary>
+
+  ### Dit ging goed/Heb ik geleerd: 
+  Voor de herkansing is het mij gellukt alles af te maken. Beide pagina's zijn netjes uitgewerkt met html en css en de screenreader heeft geen moeite om de pagina's goed voor te lezen.
+
+  <img src="./readme-images/screen1.png" width="375px" alt="screen 1">
+  <img src="./readme-images/screen2.png" width="375px" alt="screen 2">
+
+
+  ### Dit was lastig/Is niet gelukt:
+De javascript was in het begin wat lastig. De DOM injection op de order pagina was vrij nieuw voor mij en ik had paar pogingen nodig om de code goed op orde te krijgen. Zelfs nu is de code nog niet perfect. Als je de knoppen voor purchase price en probable savings gebruikt, stopt de rest van de code.
 </details>
 
 
@@ -224,14 +168,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Bronnenlijst
 
 <details open>
-  <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
-
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. ChatGPT
+  2. [Fade in on scroll vanilla Javascript](https://codepen.io/bstonedev/pen/MWWZgKz)
+  3. [CSS Glass](https://css.glass/)
 
 </details>
